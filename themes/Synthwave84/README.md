@@ -33,7 +33,7 @@
 ![](https://github.com/CelestialReaver/Powercord/blob/main/themes/Synthwave84/assets/Synthwave-Preview5.png)
 
 ## Misc
-* If you need support, please ask in the _#theme-support_ channel on the <a href="https://discord.gg/powercord">Powercord</a> Discord server.
+* If you need support, please ask in the _#misc-support_ channel on the <a href="https://discord.gg/powercord">Powercord</a> Discord server.
 * If you like this theme, please consider recommending it to others. It will help other people discover this theme.
 
 ## Credits
