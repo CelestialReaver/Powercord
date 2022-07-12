@@ -7,8 +7,8 @@
  * @invite 0Tmfo5ZbORCRqbAd
  * @buymeacoffee https://www.buymeacoffee.com/celestialreaver
  * @website https://github.com/CelestialReaver
- * @source https://github.com/CelestialReaver/BetterDiscord/tree/main/plugins/NewsFeeder
- * @updateUrl https://celestialreaver.github.io/BetterDiscord/plugins/NewsFeeder/NewsFeeder.plugin.js
+ * @source https://github.com/CelestialReaver/Powercord/tree/main/plugins/NewsFeeder
+ * @updateUrl https://celestialreaver.github.io/Powercord/plugins/NewsFeeder/NewsFeeder.plugin.js
  */
 
 var NewsFeeder = (() => {
