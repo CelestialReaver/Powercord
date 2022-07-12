@@ -1,2 +1,2 @@
 # Powercord
-My Powercord themes and plugins.
+Powercord themes and plugins I've made.
