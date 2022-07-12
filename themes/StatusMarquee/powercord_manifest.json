@@ -1,0 +1,8 @@
+{
+  "name": "Status Marquee",
+  "description": "This will marquee the activity status of server members and friends.",
+  "version": "1.0.1",
+  "author": "CelestialReaver",
+  "theme": "theme.css",
+  "license": "MIT"
+}
